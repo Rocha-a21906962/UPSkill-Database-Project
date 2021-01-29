@@ -1,15 +1,11 @@
-# UPSkill-Database-Project
-Database Project
-
-![UPSkill Program logo](https://bitbucket.org/KnowULike/upskill-python-project/raw/e5f12d9fe1a30955de1baeb2849ccf4a3234e2a1/Images/UPSkill_Logo.png)
+![UPSkill Program logo](https://raw.githubusercontent.com/Rocha-a21906962/UPSkill-Database-Project/main/UPSkill_Logo.png)
 
 # Python Course - Web Development
 
 ## Course Page
 <https://upskill.pt>
 
-## Project Structure
-
-| Element    | Description                                        | Directory (w/Link)                 |
-|:-----------|:---------------------------------------------------|:----------------------------------:|
-| Manager    | Main Class.                                        | [ Code ](/Code/CommercialFlightManager.py)   |
+# UPSkill-Database-Project (in collaboration w/ [cristianoferro](https://github.com/cristianoferro))
+### Link: [Code MySQL](https://github.com/Rocha-a21906962/UPSkill-Database-Project/blob/main/ProjetoBD_Comandos.sql)
+---
+![Architecture](https://raw.githubusercontent.com/Rocha-a21906962/UPSkill-Database-Project/main/DrawProjetoDB.png)
